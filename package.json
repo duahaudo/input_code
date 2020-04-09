@@ -1,6 +1,6 @@
 {
   "name": "input_code",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "confirmation code boxes",
   "main": "dist/index.js",
   "author": "Son Dieu",
