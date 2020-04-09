@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "module": "commonjs",
+    "noImplicitAny": false,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "sourceMap": false,
+    "noEmitOnError": true,
+    "target": "es5",
+    "lib": [
+      "es7",
+      "dom"
+    ],
+    "outDir": "dist",
+    "declaration": true,
+    "skipLibCheck": true,
+    "skipDefaultLibCheck": true
+  },
+  "exclude": [
+    "node_modules/**/*.*"
+  ]
+}
