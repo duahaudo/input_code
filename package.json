@@ -1,7 +1,7 @@
 {
-  "name": "inputCode",
+  "name": "input_code",
   "version": "1.0.0",
-  "description": "confirmation code boxs",
+  "description": "confirmation code boxes",
   "main": "dist/index.js",
   "author": "Son Dieu",
   "license": "MIT",
@@ -15,9 +15,8 @@
   },
   "scripts": {
     "bootstrap": "./run.sh bootstrap",
-    "test": "echo \"Error: no test's yet\" && exit 1",
     "compile": "./node_modules/.bin/tsc --watch",
     "build": "./run.sh build",
     "deploy": "./run.sh deploy"
-  },
+  }
 }
