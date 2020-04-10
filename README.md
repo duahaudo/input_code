@@ -1,3 +1,6 @@
+## How to install?
+`yarn add input_code`
+
 ## How to use ?
 
 ```tsx
